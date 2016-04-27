@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alterado por adryan 2
+=======
+Segundo Arquivo
+>>>>>>> ecad5325c033b067c25f4c43e1142ffe9a43c665
